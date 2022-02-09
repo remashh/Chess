@@ -13,4 +13,5 @@ MonoBehaviour:
   m_Name: Bishop
   m_EditorClassIdentifier: 
   name: Bishop
-  prefab: {fileID: 100000, guid: 9872e0b509ff2d04299e3fe92e0deacc, type: 3}
+  prefabWhite: {fileID: 1028868664329696, guid: 1c0f2faf14460a5478057fd4e0575576, type: 3}
+  prefabBlack: {fileID: 1672242659374470, guid: f005021ceced8b240983e71a3d481180, type: 3}

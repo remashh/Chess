@@ -13,4 +13,5 @@ MonoBehaviour:
   m_Name: King
   m_EditorClassIdentifier: 
   name: King
-  prefab: {fileID: 100000, guid: 0d4dc18442ed9d14698239a5a964f27f, type: 3}
+  prefabWhite: {fileID: 1389686872840900, guid: 27d2608cb94ae2d44811af52793c3562, type: 3}
+  prefabBlack: {fileID: 1810274083847610, guid: 309659d4eb727d74d91c4875a85edc00, type: 3}

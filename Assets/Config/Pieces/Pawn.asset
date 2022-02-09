@@ -13,4 +13,5 @@ MonoBehaviour:
   m_Name: Pawn
   m_EditorClassIdentifier: 
   name: Pawn
-  prefab: {fileID: 100000, guid: 1ae3b6cad3254b848942cea678f244c7, type: 3}
+  prefabWhite: {fileID: 1006356879557798, guid: 391882f14be491c40962add653844907, type: 3}
+  prefabBlack: {fileID: 1867195236767680, guid: b1d95c04dd54e434aa65855a0f77d30f, type: 3}

@@ -13,4 +13,5 @@ MonoBehaviour:
   m_Name: Queen
   m_EditorClassIdentifier: 
   name: Queen
-  prefab: {fileID: 100000, guid: 8d213db23e89f6b4fa3d427f07a32b13, type: 3}
+  prefabWhite: {fileID: 1945632463053948, guid: be3573ba2ba53ea4f8979e64874c493d, type: 3}
+  prefabBlack: {fileID: 1471985601831630, guid: 664a4dc6e997f5f47a9233db911328ac, type: 3}

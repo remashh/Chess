@@ -13,4 +13,5 @@ MonoBehaviour:
   m_Name: Knight
   m_EditorClassIdentifier: 
   name: Knight
-  prefab: {fileID: 100000, guid: 3d375d4a1907b3f4098bb64446492fed, type: 3}
+  prefabWhite: {fileID: 1992623236052302, guid: 85ad2c556fdbd5747ac7f5f67f10e59b, type: 3}
+  prefabBlack: {fileID: 1179637952412708, guid: a007978aa14da3945b0f6655f65cc278, type: 3}
