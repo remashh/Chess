@@ -8,11 +8,14 @@ namespace DefaultNamespace
     public class Piece : ScriptableObject
     {
         [SerializeField] private string name;
-        [SerializeField] private GameObject prefab;
+        [SerializeField] private GameObject prefabWhite;
+        [SerializeField] private GameObject prefabBlack;
 
         public string Name => name;
 
-        public GameObject Prefab => prefab;
+        public GameObject PrefabWhite => prefabWhite;
+
+        public GameObject PrefabBlack => prefabBlack;
     }
 }
 

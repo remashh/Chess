@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using DefaultNamespace;
 using UnityEngine;
 
-public class PieceView : MonoBehaviour
+public class PieceViewWhite : MonoBehaviour
 {
     [SerializeField] private Transform rootPoint;
     [SerializeField] private Piece piece;
@@ -20,6 +20,6 @@ public class PieceView : MonoBehaviour
             Destroy(_piece);
         }
 
-        _piece = Instantiate(piece.Prefab, rootPoint);
+        _piece = Instantiate(piece.PrefabWhite, rootPoint);
     }
 }
